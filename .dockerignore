@@ -1,0 +1,11 @@
+/.dockerignore
+/.eslintrc.js
+/.git/
+/.gitignore
+/Dockerfile
+/LICENSE
+/README.md
+/docs/
+/node_modules/
+/npm-debug.log
+/test/
